@@ -1,0 +1,2 @@
+# createtf
+Terraform Project Bootstrapper
